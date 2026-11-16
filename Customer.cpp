@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-    cout << "Vel is Kinggi";
+    cout << "Vel is King";
 }
